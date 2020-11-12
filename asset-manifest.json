@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/auction-dapp/static/js/main.67921a8b.chunk.js",
+    "main.js.map": "/auction-dapp/static/js/main.67921a8b.chunk.js.map",
+    "runtime-main.js": "/auction-dapp/static/js/runtime-main.da2cba49.js",
+    "runtime-main.js.map": "/auction-dapp/static/js/runtime-main.da2cba49.js.map",
+    "static/css/2.7858effa.chunk.css": "/auction-dapp/static/css/2.7858effa.chunk.css",
+    "static/js/2.d049f757.chunk.js": "/auction-dapp/static/js/2.d049f757.chunk.js",
+    "static/js/2.d049f757.chunk.js.map": "/auction-dapp/static/js/2.d049f757.chunk.js.map",
+    "index.html": "/auction-dapp/index.html",
+    "precache-manifest.5532389653d2c42d7d97d1bf2e6bec65.js": "/auction-dapp/precache-manifest.5532389653d2c42d7d97d1bf2e6bec65.js",
+    "service-worker.js": "/auction-dapp/service-worker.js",
+    "static/css/2.7858effa.chunk.css.map": "/auction-dapp/static/css/2.7858effa.chunk.css.map",
+    "static/js/2.d049f757.chunk.js.LICENSE.txt": "/auction-dapp/static/js/2.d049f757.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/auction-dapp/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da2cba49.js",
+    "static/css/2.7858effa.chunk.css",
+    "static/js/2.d049f757.chunk.js",
+    "static/js/main.67921a8b.chunk.js"
+  ]
+}
